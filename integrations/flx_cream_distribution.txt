@@ -2,4 +2,4 @@
 
 ### Notes
 
-Similar to LP rewards, rewards are calculated according to the time x weight of each position. E.g if an address borrows more RAI for a longer period of time than others, it can accrue more rewards.
+Similar to LP rewards, rewards on Cream are calculated according to the time x weight of each position. E.g if an address borrows more RAI for a longer period of time than others, it can accrue more rewards.
