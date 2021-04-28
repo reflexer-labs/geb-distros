@@ -8,13 +8,13 @@ You first need to get rcTokens. There are three ways to do this:
 2) Go to the RAI market, click on the Mint tab and provide DAI
 3) Go to the RAI market, click on the Lend tab and lend DAI
 
-Once you get rcTokens, go to this Curve pool and provide:
+Once you get rcTokens, go to the Curve pool and provide:
 
 - DAI + rcTokens
 - USDC + rcTokens
 - USDT + rcTokens
 
-https://swap.rulerprotocol.com/liquidity/0xAf7c2Fb62ea78Bd5bE98F716de55B480C354f17B
+The pool is here: https://swap.rulerprotocol.com/liquidity/0xAf7c2Fb62ea78Bd5bE98F716de55B480C354f17B
 
 You will get an LP token back from Curve. You have to use that LP token and stake it in the RAI farm here:
 
