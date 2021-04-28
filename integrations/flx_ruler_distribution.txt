@@ -6,7 +6,7 @@ You first need to get rcTokens. There are three ways to do this:
 
 1) Go to the RAI market, click on the Mint tab and provide RAI (make sure to enable "Use RAI"). You will get both rcTokens and rrTokens
 2) Go to the RAI market, click on the Mint tab and provide DAI
-3) Go to the RAI market, click on the Lend tab and lend DAI
+3) Go to the RAI market, click on the Lend tab and lend DAI, USDC or USDT
 
 Once you get rcTokens, go to the Curve pool and provide:
 
