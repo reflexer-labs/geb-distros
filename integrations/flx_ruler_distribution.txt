@@ -26,4 +26,4 @@ Ruler also made a video to explain how the protocol can be used:
 
 https://docs.rulerprotocol.com/videos/using-the-protocol
 
-NOTE: *before* expiration you must unstake from the farm, get back your rcTokens + DAI from Curve and then use the rcTokens to get back your DAI (if you lent DAI) or get back your RAI (if you minted both rrTokens and rcTokens).
+NOTE: *before* expiration you must unstake from the farm, get back your tokens from Curve and then use the rcTokens to get back your DAI (if you lent DAI) or get back your RAI (if you minted both rrTokens and rcTokens).
