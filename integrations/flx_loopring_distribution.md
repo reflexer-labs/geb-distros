@@ -1,0 +1,2 @@
+30th April 2021 - 12th of May 2021 -- 50 FLX for Loopring RAI/ETH LPs (50% for AMM, 50% for orderbook)
+13th May 2021   - 26th of May 2021 -- 50 FLX for Loopring RAI/ETH LPs (50% for AMM, 50% for orderbook)
