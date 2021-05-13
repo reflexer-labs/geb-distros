@@ -1,6 +1,6 @@
 28th April 2021 8:00 PM EDT - 29th of May 2021 3:12 PM EDT -- 16.68 FLX + 48.5 RULER / week 
 
-# How Ruler Rewards Work
+#### How Ruler Rewards Work
 
 You first need to get rcTokens. There are three ways to do this:
 
