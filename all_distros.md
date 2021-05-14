@@ -8,7 +8,9 @@
 | 20th Feb 2021 10:25 PM GMT      | 26th Feb 2021 12:50 PM UTC   | 668 FLX/day | 50% RAI minters, 50% Uniswap v2 RAI/ETH Liquidity Providers                                                                                 |
 | 26th Feb 2021 12:50 PM UTC      | 8th March 2021 12:50 PM UTC  | 668 FLX/day | 100% Uniswap v2 RAI/ETH Liquidity Providers                                                                                                 |
 | 8th March 2021 12:50 PM UTC     | 13th April 2021 12:50 PM UTC | 668 FLX/day | 100% Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program). |
-| 31st of March 2021 12:50 PM UTC | 13th April 2021 12:50 PM UTC | 25 FLX/day  | RAI borrowers (not lenders) on [CREAM](https://app.cream.finance/)                                                                          |                                                                       |
+| 31st of March 2021 12:50 PM UTC | 7th April 2021 12:50 PM UTC  | 25 FLX/day  | RAI borrowers (not lenders) on [CREAM](https://app.cream.finance/)                                                                          |                                                                      
+| 7th April 2021 12:50 PM UTC     | 13th April 2021 12:50 PM UTC | 15 FLX/day  | RAI borrowers (not lenders) on [CREAM](https://app.cream.finance/)                                                                                              |
+
 
 Distribution date: 15th April 2021
 
@@ -17,8 +19,7 @@ Distribution date: 15th April 2021
 |               From              |             Until            |                               Amount | Target                                                                                                                                                          |
 |:-------------------------------:|:----------------------------:|-------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   13th April 2021 12:50 PM UTC  | 17th April 2021 12:50 PM UTC |                          668 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
-|   13th April 2021 12:50 PM UTC  |  7th April 2021 12:50 PM UTC |                           25 FLX/day | RAI borrowers (not lenders) on [CREAM](https://app.cream.finance/)                                                                                              |
-|   7th April 2021 12:50 PM UTC   |            Ongoing           |                           15 FLX/day | RAI borrowers (not lenders) on [CREAM](https://app.cream.finance/)                                                                                              |
+|   13th April 2021 12:50 PM UTC  |            Ongoing           |                           15 FLX/day | RAI borrowers (not lenders) on [CREAM](https://app.cream.finance/)                                                                                              |
 | 14th of April 2021 12:50 PM UTC |            Ongoing           |                           15 FLX/day | RAI borrowers (not lenders) in the [Fuse RAI/FRAX/USDC/DAI pool 9](https://app.rari.capital/fuse/pool/9)                                                        |
 |   17th April 2021 12:50 PM UTC  |            Ongoing           |                        233.8 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
 |   17th April 2021 12:50 PM UTC  |            Ongoing           |                         100.2FLX/day | Mint + LP in the Uniswap v2 RAI/DAI Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
