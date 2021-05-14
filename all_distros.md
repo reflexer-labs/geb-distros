@@ -28,3 +28,17 @@ Distribution date: 15th April 2021
 |     13th May 2021 00:00 UTC     |  26th of May 2021 00:00 UTC  |                      50 FLX in total | Loopring RAI/ETH LPs (50% for AMM, 50% for orderbook) More info [here](https://medium.com/loopring-protocol/loopring-l2-liquidity-mining-round-8-c4b85a00f0a9). |
 
 Distribution date: Week of the 17th of May
+
+## Round 3
+
+|               From              |             Until            |                               Amount | Target                                                                                                                                                          |
+|:-------------------------------:|:----------------------------:|-------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   13th April 2021 12:50 PM UTC  |            Ongoing           |                           15 FLX/day | RAI borrowers (not lenders) on [CREAM](https://app.cream.finance/)                                                                                              |
+| 14th of April 2021 12:50 PM UTC |            Ongoing           |                           15 FLX/day | RAI borrowers (not lenders) in the [Fuse RAI/FRAX/USDC/DAI pool 9](https://app.rari.capital/fuse/pool/9)                                                        |
+|   17th April 2021 12:50 PM UTC  |            Ongoing           |                        233.8 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
+|   17th April 2021 12:50 PM UTC  |            Ongoing           |                         100.2FLX/day | Mint + LP in the Uniswap v2 RAI/DAI Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
+|   28th April 2021 8:00 PM EDT   | 29th of May 2021 3:12 PM EDT | 16.68 FLX/week <br>+ 48.5 RULER/week | RAI lenders on [Ruler protocol](https://app.rulerprotocol.com/app/market)                                                                                       |
+|     13th May 2021 00:00 UTC     |  26th of May 2021 00:00 UTC  |                      50 FLX in total | Loopring RAI/ETH LPs (50% for AMM, 50% for orderbook) More info [here](https://medium.com/loopring-protocol/loopring-l2-liquidity-mining-round-8-c4b85a00f0a9). |
+|     19th May 2021 13:49 UTC     |            Ongoing           |                           10 FLX/day | RAI borrowers (not lenders) in the RAI/DAI Kashi pool. More info [here](https://app.sushi.com/bento/kashi/borrow/0xA7c3304462b169C71F8EdC894Ea9d32879Fb4823).  |
+
+Distribution date: TBD
