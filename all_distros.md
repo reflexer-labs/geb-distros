@@ -44,7 +44,8 @@ Distribution date: 17th May 2021
 |     13th May 2021 00:00 UTC     |  26th of May 2021 00:00 UTC  |                      50 FLX in total | Loopring RAI/ETH LPs (50% for AMM, 50% for orderbook) More info [here](https://medium.com/loopring-protocol/loopring-l2-liquidity-mining-round-8-c4b85a00f0a9). |
 |     19th May 2021 12:50 UTC     |            Ongoing           |                           10 FLX/day | RAI borrowers (not lenders) in the RAI/DAI Kashi pool. More info [here](https://app.sushi.com/bento/kashi/borrow/0xA7c3304462b169C71F8EdC894Ea9d32879Fb4823).   |
 |    26th May 2021 1:50 PM UTC    |            Ongoing           |                          334 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
-|    26th May 2021 1:50 PM UTC    |            Ongoing           |                           10 FLX/day | RAI lenders on Idle Finance. Lend RAI [here](https://beta.idle.finance/#/dashboard/best/RAI).                          |
+|    26th May 2021 1:50 PM UTC    |            Ongoing           |                           10 FLX/day | RAI lenders on Idle Finance. Lend RAI [here](https://beta.idle.finance/#/dashboard/best/RAI).                                                                   |
+|     26th May 2021 00:00 UTC     |  8th of June 2021 00:00 UTC  |                      50 FLX in total | Loopring RAI/ETH LPs (50% for AMM, 50% for orderbook) More info [here](https://medium.com/loopring-protocol/loopring-l2-liquidity-mining-round-9-49746231a656). |
 
 Distribution date: TBD
 
