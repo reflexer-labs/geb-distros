@@ -9,7 +9,8 @@
 |   17th June 2021 12:50 PM UTC   |            Ongoing           |                           10 FLX/day | RAI borrowers (not lenders) in the RAI/DAI Kashi pool. More info [here](https://app.sushi.com/bento/kashi/borrow/0xA7c3304462b169C71F8EdC894Ea9d32879Fb4823).   |
 |   17th June 2021 12:50 PM UTC   |            Ongoing           |                          334 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
 |   17th June 2021 12:50 PM UTC   |            Ongoing           |                           40 FLX/day | Uniswap v2 FLX/ETH LP. More info [here](https://docs.reflexer.finance/incentives/flx-liquidity-incentives).                                                     |
-|   17th June 2021 12:50 PM UTC   |            Ongoing           |                           10 FLX/day | RAI lenders on Idle Finance. Lend RAI [here](https://beta.idle.finance/#/dashboard/best/RAI).                                                                   |
+|   17th June 2021 12:50 PM UTC   |            Ongoing           |                           10 FLX/day | RAI lenders on Idle Finance. Lend RAI [here](https://beta.idle.finance/#/dashboard/best/RAI).  
+|   23rd June 2021 12:50 PM UTC   |            Ongoing           |                           50 FLX/day | RAI borrowers on Aave v2.|
 
 Snapshot date: TBD
 
