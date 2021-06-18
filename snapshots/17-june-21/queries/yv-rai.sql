@@ -1,6 +1,6 @@
 DECLARE TokenAddress DEFAULT "0x873fb544277fd7b977b196a826459a69e27ea4ea";     -- ERC20 to incentivise
 DECLARE DeployDate DEFAULT TIMESTAMP("2021-06-04 00:00:00+00");                -- UTC date, Set it to just before the first ever LP token mint
-DECLARE StartDate DEFAULT TIMESTAMP("2021-06-07 04:54:00+00");                -- UTC date, Set it to when to start to distribute rewards
+DECLARE StartDate DEFAULT TIMESTAMP("2021-06-07 16:54:00+00");                -- UTC date, Set it to when to start to distribute rewards
 DECLARE CutoffDate DEFAULT TIMESTAMP("2021-06-17 12:50:00+00");                -- UTC date, Set it to when to stop to distribute rewards
 DECLARE TokenOffered DEFAULT 18.029974241e18;                                              -- Number of FLX to distribute in total
 

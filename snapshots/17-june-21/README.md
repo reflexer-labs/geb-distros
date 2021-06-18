@@ -83,7 +83,7 @@ Total FLX distributed: 220 FLX
 
 Reward attributed to the yearn strategy from the idle distribution are forwarded to yvRAI holders
 
-- Period: From June-07-2021 04:37:06 UTC Until June-17-2021 12:50pm UTC
+- Period: From June-07-2021 04:37:06pm UTC Until June-17-2021 12:50pm UTC
 - Query: `yv-rai.sql`
 - Command `./run_incentives_query.sh ./distributions/distribution-3/queries/yv-rai.sql exclusions.csv distributions/distribution-3/query-results/yv-rai.sql.csv`
 
