@@ -12,7 +12,8 @@
 |   15th July 2021 12:50 PM UTC   |            Ongoing           |                           65 FLX/day | RAI borrowers on Aave v2.|
 |   15th July 2021 12:50 PM UTC   | 23rd July 2021 12:50 PM UTC  |                        28.57 FLX/day | RAI/DAI Uniswap v3 minter + LPs. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
 |   15th July 2021 12:50 PM UTC   | 23rd July 2021 12:50 PM UTC  |                        28.57 FLX/day | RAI/ETH Uniswap v3 minter + LPs. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
-Snapshot date: TBD
+
+Snapshot date: 15th August 2021 12:50 PM UTC
 
 Distribution date: TBD
 
@@ -31,9 +32,10 @@ Distribution date: TBD
 |   23rd June 2021 12:50 PM UTC   | 15th July 2021 12:50 PM UTC  |                           65 FLX/day | RAI borrowers on Aave v2.|
 |   9th July 2021 12:50 PM UTC    | 15th July 2021 12:50 PM UTC  |                        28.57 FLX/day | RAI/DAI Uniswap v3 minter + LPs. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
 |   9th July 2021 12:50 PM UTC    | 15th July 2021 12:50 PM UTC  |                        28.57 FLX/day | RAI/ETH Uniswap v3 minter + LPs. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
+
 Snapshot date: 15th July 2021 12:50 PM UTC
 
-Distribution date: Week of the 19th July 2021
+Distribution date: 20th July 2021
 
 ## Round 3
 
