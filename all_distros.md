@@ -1,23 +1,41 @@
 # RAI incentive program
 
+## Round 5
+
+|               From              |             Until            |                               Amount | Target                                                                                                                                                          |
+|:-------------------------------:|:----------------------------:|-------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   15th July 2021 12:50 PM UTC   |            Ongoing           |                           15 FLX/day | RAI borrowers (not lenders) in the [Fuse RAI/FRAX/USDC/DAI pool 9](https://app.rari.capital/fuse/pool/9). Borrowers will need to supply DAI, USDC or FRAX (not RAI) in order to have an eligible borrow.     |
+|   15th July 2021 12:50 PM UTC   |            Ongoing           |                           10 FLX/day | RAI borrowers (not lenders) in the RAI/DAI Kashi pool. More info [here](https://app.sushi.com/bento/kashi/borrow/0xA7c3304462b169C71F8EdC894Ea9d32879Fb4823).   |
+|   15th July 2021 12:50 PM UTC   |            Ongoing           |                          334 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
+|   15th July 2021 12:50 PM UTC   |            Ongoing           |                           80 FLX/day | Uniswap v2 FLX/ETH LP. More info [here](https://docs.reflexer.finance/incentives/flx-liquidity-incentives).                                                     |
+|   15th July 2021 12:50 PM UTC   |            Ongoing           |                           10 FLX/day | RAI lenders on Idle Finance. Lend RAI [here](https://beta.idle.finance/#/dashboard/best/RAI).  
+|   15th July 2021 12:50 PM UTC   |            Ongoing           |                           65 FLX/day | RAI borrowers on Aave v2.|
+|   15th July 2021 12:50 PM UTC   | 23rd July 2021 12:50 PM UTC  |                        28.57 FLX/day | RAI/DAI Uniswap v3 minter + LPs. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
+|   15th July 2021 12:50 PM UTC   | 23rd July 2021 12:50 PM UTC  |                        28.57 FLX/day | RAI/ETH Uniswap v3 minter + LPs. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
+
+Snapshot date: 15th August 2021 12:50 PM UTC
+
+Distribution date: TBD
+
 ## Round 4
 
 |               From              |             Until            |                               Amount | Target                                                                                                                                                          |
 |:-------------------------------:|:----------------------------:|-------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   17th June 2021 12:50 PM UTC   | 23rd June 2021 12:50 PM UTC  |                           15 FLX/day | RAI borrowers (not lenders) on [CREAM](https://app.cream.finance/)                                                                                              |
 |   17th June 2021 12:50 PM UTC   | 7th July 2021 12:50 PM UTC   |                           15 FLX/day | RAI borrowers (not lenders) in the [Fuse RAI/FRAX/USDC/DAI pool 9](https://app.rari.capital/fuse/pool/9)                                                        |
-|   7th July 2021 12:50 PM UTC    |            Ongoing           |                           15 FLX/day | RAI borrowers (not lenders) in the [Fuse RAI/FRAX/USDC/DAI pool 9](https://app.rari.capital/fuse/pool/9). Borrowers will need to supply DAI, USDC or FRAX (not RAI) in order to have an eligible borrow.     |
-|   17th June 2021 12:50 PM UTC   |            Ongoing           |                           10 FLX/day | RAI borrowers (not lenders) in the RAI/DAI Kashi pool. More info [here](https://app.sushi.com/bento/kashi/borrow/0xA7c3304462b169C71F8EdC894Ea9d32879Fb4823).   |
-|   17th June 2021 12:50 PM UTC   |            Ongoing           |                          334 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
+|   7th July 2021 12:50 PM UTC    | 15th July 2021 12:50 PM UTC  |                           15 FLX/day | RAI borrowers (not lenders) in the [Fuse RAI/FRAX/USDC/DAI pool 9](https://app.rari.capital/fuse/pool/9). Borrowers will need to supply DAI, USDC or FRAX (not RAI) in order to have an eligible borrow.     |
+|   17th June 2021 12:50 PM UTC   | 15th July 2021 12:50 PM UTC  |                           10 FLX/day | RAI borrowers (not lenders) in the RAI/DAI Kashi pool. More info [here](https://app.sushi.com/bento/kashi/borrow/0xA7c3304462b169C71F8EdC894Ea9d32879Fb4823).   |
+|   17th June 2021 12:50 PM UTC   | 15th July 2021 12:50 PM UTC  |                          334 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
 |   17th June 2021 12:50 PM UTC   | 21st June 2021 12:50 PM UTC  |                           40 FLX/day | Uniswap v2 FLX/ETH LP. More info [here](https://docs.reflexer.finance/incentives/flx-liquidity-incentives).                                                     |
-|   21st June 2021 12:50 PM UTC   |            Ongoing           |                           80 FLX/day | Uniswap v2 FLX/ETH LP. More info [here](https://docs.reflexer.finance/incentives/flx-liquidity-incentives).                                                     |
-|   17th June 2021 12:50 PM UTC   |            Ongoing           |                           10 FLX/day | RAI lenders on Idle Finance. Lend RAI [here](https://beta.idle.finance/#/dashboard/best/RAI).  
-|   23rd June 2021 12:50 PM UTC   |            Ongoing           |                           65 FLX/day | RAI borrowers on Aave v2.|
-|   9th July 2021 12:50 PM UTC    | 23rd July 2021 12:50 PM UTC  |        800 FLX over the whole period | 400 FLX for RAI/DAI Uniswap v3 minter + LPs. 400 FLX for RAI/ETH Uniswap v3 minter + LPs. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
+|   21st June 2021 12:50 PM UTC   | 15th July 2021 12:50 PM UTC  |                           80 FLX/day | Uniswap v2 FLX/ETH LP. More info [here](https://docs.reflexer.finance/incentives/flx-liquidity-incentives).                                                     |
+|   17th June 2021 12:50 PM UTC   | 15th July 2021 12:50 PM UTC  |                           10 FLX/day | RAI lenders on Idle Finance. Lend RAI [here](https://beta.idle.finance/#/dashboard/best/RAI).  
+|   23rd June 2021 12:50 PM UTC   | 15th July 2021 12:50 PM UTC  |                           65 FLX/day | RAI borrowers on Aave v2.|
+|   9th July 2021 12:50 PM UTC    | 15th July 2021 12:50 PM UTC  |                        28.57 FLX/day | RAI/DAI Uniswap v3 minter + LPs. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
+|   9th July 2021 12:50 PM UTC    | 15th July 2021 12:50 PM UTC  |                        28.57 FLX/day | RAI/ETH Uniswap v3 minter + LPs. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
 
-Snapshot date: TBD
+Snapshot date: 15th July 2021 12:50 PM UTC
 
-Distribution date: TBD
+Distribution date: 20th July 2021
 
 ## Round 3
 
