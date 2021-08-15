@@ -12,7 +12,7 @@
 |   18th Aug 2021 12:50 PM UTC    |            Ongoing           |                           84 FLX/day | RAI/DAI Uniswap v3 minter + LPs. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
 |   23rd July 2021 12:50 PM UTC   |  18th Aug 2021 12:50 PM UTC  |                           50 FLX/day | RAI/DAI Uniswap v3 minter + LPs. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
 
-Snapshot date: 15th August 2021 12:50 PM UTC
+Snapshot date: 15th September 2021 12:50 PM UTC
 
 Distribution date: TBD
 
