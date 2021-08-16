@@ -13,8 +13,8 @@
 |   15th Aug 2021 12:50 PM UTC    |            Ongoing           |                           65 FLX/day | RAI borrowers on Aave v2.|
 |   18th Aug 2021 12:50 PM UTC    |  1st Sept 2021 12:50 PM UTC  |                           50 FLX/day | FLX/ETH Uniswap v2 stakers. Read more about staking [here](https://docs.reflexer.finance/incentives/flx-staking).|
 |  1st Sept 2021 12:50 PM UTC     | 15th Sept 2021 12:50 PM UTC  |                           90 FLX/day | FLX/ETH Uniswap v2 stakers. Read more about staking [here](https://docs.reflexer.finance/incentives/flx-staking).|
-|   18th Aug 2021 12:50 PM UTC    |            Ongoing           |                           84 FLX/day | RAI/DAI Uniswap v3 minter + LPs. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
-|   15th Aug 2021 12:50 PM UTC    |  18th Aug 2021 12:50 PM UTC  |                           50 FLX/day | RAI/DAI Uniswap v3 minter + LPs. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
+|   18th Aug 2021 12:50 PM UTC    |            Ongoing           |                           84 FLX/day | RAI/DAI Uniswap v3 minter + LPs on market price. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
+|   15th Aug 2021 12:50 PM UTC    |  18th Aug 2021 12:50 PM UTC  |                           50 FLX/day | RAI/DAI Uniswap v3 minter + LPs on market price. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
 
 Snapshot date: 15th September 2021 12:50 PM UTC
 
@@ -24,16 +24,17 @@ Distribution date: TBD
 
 |               From              |             Until            |                               Amount | Target                                                                                                                                                          |
 |:-------------------------------:|:----------------------------:|-------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   15th July 2021 12:50 PM UTC   |            Ongoing           |                           15 FLX/day | RAI borrowers (not lenders) in the [Fuse RAI/FRAX/USDC/DAI pool 9](https://app.rari.capital/fuse/pool/9). Borrowers will need to supply DAI, USDC or FRAX (not RAI) in order to have an eligible borrow.     |
+|   15th July 2021 12:50 PM UTC   | 15th August 2021 12:50 PM UTC|                           15 FLX/day | RAI borrowers (not lenders) in the [Fuse RAI/FRAX/USDC/DAI pool 9](https://app.rari.capital/fuse/pool/9). Borrowers will need to supply DAI, USDC or FRAX (not RAI) in order to have an eligible borrow.     |
 |   15th July 2021 12:50 PM UTC   |  21st July 2021 12:50 PM UTC |                           10 FLX/day | RAI borrowers (not lenders) in the RAI/DAI Kashi pool. More info [here](https://app.sushi.com/bento/kashi/borrow/0xA7c3304462b169C71F8EdC894Ea9d32879Fb4823).   |
-|   15th July 2021 12:50 PM UTC   |            Ongoing           |                          334 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
+|   15th July 2021 12:50 PM UTC   | 15th August 2021 12:50 PM UTC|                          334 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
 |   15th July 2021 12:50 PM UTC   |  21st July 2021 12:50 PM UTC |                           80 FLX/day | Uniswap v2 FLX/ETH LP. More info [here](https://docs.reflexer.finance/incentives/flx-liquidity-incentives).                                                     |
-|   21st July 2021 12:50 PM UTC   |            Ongoing           |                           90 FLX/day | Uniswap v2 FLX/ETH LP. More info [here](https://docs.reflexer.finance/incentives/flx-liquidity-incentives).                                                     |
-|   15th July 2021 12:50 PM UTC   |            Ongoing           |                           10 FLX/day | RAI lenders on Idle Finance. Lend RAI [here](https://beta.idle.finance/#/dashboard/best/RAI).  
-|   15th July 2021 12:50 PM UTC   |            Ongoing           |                           65 FLX/day | RAI borrowers on Aave v2.|
-|   15th July 2021 12:50 PM UTC   | 23rd July 2021 12:50 PM UTC  |                        28.57 FLX/day | RAI/DAI Uniswap v3 minter + LPs. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
-|   15th July 2021 12:50 PM UTC   | 23rd July 2021 12:50 PM UTC  |                        28.57 FLX/day | RAI/ETH Uniswap v3 minter + LPs. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
-|   23rd July 2021 12:50 PM UTC   |            Ongoing           |                           50 FLX/day | RAI/DAI Uniswap v3 minter + LPs. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
+|   21st July 2021 12:50 PM UTC   | 15th August 2021 12:50 PM UTC|                           90 FLX/day | Uniswap v2 FLX/ETH LP. More info [here](https://docs.reflexer.finance/incentives/flx-liquidity-incentives).                                                     |
+|   15th July 2021 12:50 PM UTC   | 15th Augsut 2021 12:50 PM UTC|                           10 FLX/day | RAI lenders on Idle Finance. Lend RAI [here](https://beta.idle.finance/#/dashboard/best/RAI).  
+|   15th July 2021 12:50 PM UTC   | 15th August 2021 12:50 PM UTC|                           65 FLX/day | RAI borrowers on Aave v2.|
+|   15th July 2021 12:50 PM UTC   | 23rd July 2021 12:50 PM UTC  |                        28.57 FLX/day | RAI/DAI Uniswap v3 minter + LPs on redemption price. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
+|   15th July 2021 12:50 PM UTC   | 23rd July 2021 12:50 PM UTC  |                        28.57 FLX/day | RAI/ETH Uniswap v3 minter + LPs on redemption price. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
+|   23rd July 2021 12:50 PM UTC   | 9th August 2021 12:50 PM UTC |                           50 FLX/day | RAI/DAI Uniswap v3 minter + LPs on redemption price. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
+|  9th August 2021 12:50 PM UTC   | 15th August 2021 12:50 PM UTC|                           50 FLX/day | RAI/DAI Uniswap v3 minter + LPs on market price. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
 
 Snapshot date: 15th August 2021 12:50 PM UTC
 
