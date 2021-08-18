@@ -29,7 +29,7 @@ __NOTES__:
 |   25th Aug 2021 12:50 PM UTC    |            Ongoing           |                           40 FLX/day | RAI borrowers on Aave v2.|
 |   15th Aug 2021 12:50 PM UTC    |  25th Aug 2021 12:50 PM UTC  |                           65 FLX/day | RAI borrowers on Aave v2.|
 
-### Uniswap v2 to Uniswap v3 LP Transition in Round 6
+### Uniswap v2 to Uniswap v3 LP Transition
 
 |               From              |             Until            |                               Amount | Target                                                                                                                                                          |
 |:-------------------------------:|:----------------------------:|-------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
