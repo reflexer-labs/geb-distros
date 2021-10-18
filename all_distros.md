@@ -27,18 +27,18 @@ __NOTES__:
 
 |               From              |             Until            |                               Amount | Target                                                                                                                                                          |
 |:-------------------------------:|:----------------------------:|-------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   13th Oct 2021 12:50 PM UTC    |            Ongoing           |                           30 FLX/day | RAI borrowers on Aave v2.|
+|   13th Oct 2021 12:50 PM UTC    |  15th Oct 2021 12:50 PM UTC  |                           30 FLX/day | RAI borrowers on Aave v2.|
 |   15th Sept 2021 12:50 PM UTC   |  13th Oct 2021 12:50 PM UTC  |                           40 FLX/day | RAI borrowers on Aave v2.|
-|   15th Sept 2021 12:50 PM UTC   |            Ongoing           |                           10 FLX/day | RAI borrowers (not lenders) in the [Fuse RAI/FRAX/USDC/DAI pool 9](https://app.rari.capital/fuse/pool/9). Borrowers will need to supply DAI, USDC, FEI or FRAX (not RAI) in order to have an eligible borrow.     |
-|   15th Sept 2021 12:50 PM UTC   |            Ongoing           |                           10 FLX/day | RAI lenders on Idle Finance. Lend RAI [here](https://beta.idle.finance/#/dashboard/best/RAI).                |
-|   13th Oct 2021 12:50 PM UTC    |            Ongoing           |                          100 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
+|   15th Sept 2021 12:50 PM UTC   |  15th Oct 2021 12:50 PM UTC  |                           10 FLX/day | RAI borrowers (not lenders) in the [Fuse RAI/FRAX/USDC/DAI pool 9](https://app.rari.capital/fuse/pool/9). Borrowers will need to supply DAI, USDC, FEI or FRAX (not RAI) in order to have an eligible borrow.     |
+|   15th Sept 2021 12:50 PM UTC   |  15th Oct 2021 12:50 PM UTC  |                           10 FLX/day | RAI lenders on Idle Finance. Lend RAI [here](https://beta.idle.finance/#/dashboard/best/RAI).                |
+|   13th Oct 2021 12:50 PM UTC    |  15th Oct 2021 12:50 PM UTC  |                          100 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
 |   15th Sept 2021 12:50 PM UTC   |  13th Oct 2021 12:50 PM UTC  |                          120 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
-|   15th Sept 2021 12:50 PM UTC   |            Ongoing           |                          174 FLX/day | RAI/DAI Uniswap v3 minter + LPs on market price. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
-|   15th Sept 2021 12:50 PM UTC   |            Ongoing           |                          120 FLX/day | FLX/ETH Uniswap v2 stakers. Read more about staking [here](https://docs.reflexer.finance/incentives/flx-staking).|
+|   15th Sept 2021 12:50 PM UTC   |  15th Oct 2021 12:50 PM UTC  |                          174 FLX/day | RAI/DAI Uniswap v3 minter + LPs on market price. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
+|   15th Sept 2021 12:50 PM UTC   |  15th Oct 2021 12:50 PM UTC  |                          120 FLX/day | FLX/ETH Uniswap v2 stakers. Read more about staking [here](https://docs.reflexer.finance/incentives/flx-staking).|
 
 Snapshot date: 15th October 2021 12:50 PM UTC
 
-Distribution date: TBD
+Distribution date: 19th October
 
 ## Round 6
 
