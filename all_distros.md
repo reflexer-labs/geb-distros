@@ -7,7 +7,7 @@ __NOTES__:
 - You can use [this calculator](https://defi-lab.xyz/uniswapv3simulator) to determine a comfortable range for your RAI/DAI Uniswap v3 position
 
 |               From              |             Until            |                               Amount |     Algo     | Target                                                                                                                                                          |
-|:-------------------------------:|:----------------------------:|-------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------------------------:|:----------------------------:|-------------------------------------:|--------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   27th Oct 2021 12:50 PM UTC    |            Ongoing           |                           20 FLX/day |       Same as Previous       | RAI borrowers on Aave v2.|
 |   15th Oct 2021 12:50 PM UTC    |  27th Oct 2021 12:50 PM UTC  |                           30 FLX/day |       Same as Previous       | RAI borrowers on Aave v2.|
 |   15th Oct 2021 12:50 PM UTC    |            Ongoing           |                           10 FLX/day |       Same as Previous       | RAI borrowers (not lenders) in the [Fuse RAI/FRAX/USDC/DAI pool 9](https://app.rari.capital/fuse/pool/9). Borrowers will need to supply DAI, USDC, FEI or FRAX (not RAI) in order to have an eligible borrow.     |
