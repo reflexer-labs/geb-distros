@@ -11,7 +11,7 @@ To combine the individual query results run `./run_combine.sh ./distributions/di
 
 ## Distribution fix
 
-This distribution had mistake in its original configuration. A second distribution was prepare to compensate those that got less rewards in file `distr_7_fix.csv`.
+This distribution had a mistake in its original configuration. A second distribution was prepared to compensate those that got less rewards. The fix distribution can be found at `distr_7_fix.csv`.
 
 ## Individual distributions
 
