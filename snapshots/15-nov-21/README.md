@@ -9,10 +9,6 @@ Results of the overall distribution are in `per_campaign.csv` for individual que
 
 To combine the individual query results run `./run_combine.sh ./distributions/distribution-8/query-results`
 
-## Distribution fix
-
-This distribution had mistake in its original configuration. A second distribution was prepare to compensate those that got less rewards in file `distr_7_fix.csv`.
-
 ## Individual distributions
 
 ### Aave borrower 1
