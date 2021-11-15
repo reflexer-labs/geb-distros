@@ -40,7 +40,7 @@ __NOTES__:
 
 Snapshot date: 15th November 2021 12:50 PM UTC
 
-Distribution date: 19th November 2021
+Distribution date: 17th November 2021
 
 ## Round 7
 
