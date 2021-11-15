@@ -1,6 +1,6 @@
-# FLX Distribution #7
+# FLX Distribution #8
 
-Distribution date: 18th Ocotober 2021
+Target distribution date: 19th November 2021
 
 - Start: Oct-15-2021 12:50pm UTC
 - Cutoff-date: Nov-15-2021 12:50pm UTC
