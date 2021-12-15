@@ -13,7 +13,7 @@ To combine the individual query results run `./run_combine.sh ./distributions/di
 
 10 FLX per day to RAI borrowers pro rata to the borrow amount.
 
-- Period: From Nov-15-2021 12:50pm UTC Until Oct-27-2021 12:50pm UTC
+- Period: From Nov-15-2021 12:50pm UTC Until Dec-15-2021 12:50pm UTC
 - Query `aave.sql`
 - Command `./run_incentives_query.sh ./distributions/distribution-9/queries/aave.sql exclusions.csv distributions/distribution-9/query-results/aave.csv`
 
@@ -59,7 +59,7 @@ Total FLX distributed: 300 FLX
 
 100 FLX per day to RAI/ETH LPs on Uniswap that also minted RAI. See `https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program`
 
-- Period: From Nov-15-2021 12:50pm UTC Until Oct-27-2021 12:50pm UTC
+- Period: From Nov-15-2021 12:50pm UTC Until Dec-15-2021 12:50pm UTC
 - Query: Node script at https://github.com/reflexer-labs/lp-minter-reward-script
 
 Total FLX distributed: 2100 FLX
