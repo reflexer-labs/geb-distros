@@ -36,7 +36,7 @@ __NOTES__:
 
 Snapshot date: 15th December 2021 12:50 PM UTC
 
-Distribution date: TBD
+Distribution date: 17th December 2021 12:50 PM UTC
 
 ## Round 8
 
