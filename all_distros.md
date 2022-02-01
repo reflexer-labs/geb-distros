@@ -39,7 +39,7 @@ __NOTES__:
 
 Snapshot date: 15th January 2022 12:50 PM UTC
 
-Distribution date: TBD
+Distribution date: 17th January 2022
 
 ## Round 9
 
