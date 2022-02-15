@@ -1,9 +1,9 @@
 # FLX Distribution #11
 
-Distribution date: 17th February 2021
+Distribution date: 17th February 2022
 
 - Start: March-15-2022 12:50pm UTC
-- Cutoff-date: Feb-15-2021 12:50pm UTC
+- Cutoff-date: Feb-15-2022 12:50pm UTC
 
 Results of the overall distribution are in `per_campaign.csv` for individual query results for each distribution and in `summed.csv` which is the final file used for generating the Merkle root for the distributor contract.
 
@@ -59,7 +59,7 @@ Total FLX distributed: 310 FLX
 
 50 FLX per day to RAI/ETH LPs on Uniswap that also minted RAI. See `https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program`
 
-- Period: From Jan-15-2022 12:50pm UTC Until Feb-15-2021 12:50pm UTC
+- Period: From Jan-15-2022 12:50pm UTC Until Feb-15-2022 12:50pm UTC
 - Query: Node script at https://github.com/reflexer-labs/lp-minter-reward-script
 
 Total FLX distributed: 620 FLX
