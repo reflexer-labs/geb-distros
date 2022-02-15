@@ -2,8 +2,8 @@
 
 Distribution date: 17th February 2022
 
-- Start: March-15-2022 12:50pm UTC
-- Cutoff-date: Feb-15-2022 12:50pm UTC
+- Start: January-15-2022 12:50pm UTC
+- Cutoff-date: February-15-2022 12:50pm UTC
 
 Results of the overall distribution are in `per_campaign.csv` for individual query results for each distribution and in `summed.csv` which is the final file used for generating the Merkle root for the distributor contract.
 
@@ -13,7 +13,7 @@ To combine the individual query results run `./run_combine.sh ./distributions/di
 
 10 FLX per day to RAI borrowers pro rata to the borrow amount.
 
-- Period: From Feb-15-2022 12:50pm UTC Until March-15-2022 12:50pm UTC
+- Period: From Jan-15-2022 12:50pm UTC Until Feb-15-2022 12:50pm UTC
 - Query `aave.sql`
 - Command `./run_incentives_query.sh ./distributions/distribution-11/queries/aave.sql exclusions.csv distributions/distribution-11/query-results/aave.csv`
 
