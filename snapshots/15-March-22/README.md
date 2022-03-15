@@ -1,6 +1,6 @@
 # FLX Distribution #12
 
-Distribution date: 18th February 2022
+Distribution date: 18th March 2022
 
 - Start: Feb-15-2022 12:50pm UTC
 - Cutoff-date: March-15-2022 12:50pm UTC
