@@ -1,4 +1,4 @@
-# FLX Distribution \#12
+# FLX Distribution 12
 
 Distribution date: 18th March 2022
 
