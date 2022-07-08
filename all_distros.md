@@ -1,15 +1,28 @@
 # RAI incentive program
 
+## Round 17
+
+|               From              |             Until            |                               Amount |     Algo     | Target                                                                                                                                                          |
+|:-------------------------------:|:----------------------------:|-------------------------------------:|--------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   15th July 2022 12:50 PM UTC  |            Ongoing           |                           40 FLX/day |       Same as Previous                 | LP in the Uniswap v2 RAI/ETH Pool.                          |                       |
+|   15th July 2022 12:50 PM UTC  |            Ongoing           |                          80 FLX/day |      Market + Redemption in Range      | RAI/DAI Uniswap v3 minter + LPs on market price. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
+|   15th July 2022 12:50 PM UTC  |            Ongoing           |                          100 FLX/day |     N/A                                | FLX/ETH Uniswap v2 stakers. Read more about staking [here](https://docs.reflexer.finance/incentives/flx-staking).|
+|   15th July 2022 12:50 PM UTC  |            Ongoing           |                           40 FLX/day |     N/A                                | Votium incentives for the RAI Curve gauge |
+
+Snapshot date: 15th August 2022 12:50 PM UTC
+
+Distribution date: TBD
+
 ## Round 16
 
 |               From              |             Until            |                               Amount |     Algo     | Target                                                                                                                                                          |
 |:-------------------------------:|:----------------------------:|-------------------------------------:|--------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   15th June 2022 12:50 PM UTC  |            Ongoing           |                           10 FLX/day |       Same as Previous                 | RAI borrowers on Aave v2.|
-|   15th June 2022 12:50 PM UTC  |            Ongoing           |                           10 FLX/day |       NEW                 | RAI mint + lend on Aave v2                |
-|   15th June 2022 12:50 PM UTC  |            Ongoing           |                           20 FLX/day |       Same as Previous                 | LP in the Uniswap v2 RAI/ETH Pool.                          |                       |
-|   15th June 2022 12:50 PM UTC  |            Ongoing           |                          110 FLX/day |      Market + Redemption in Range      | RAI/DAI Uniswap v3 minter + LPs on market price. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
-|   15th June 2022 12:50 PM UTC  |            Ongoing           |                          100 FLX/day |     N/A                                | FLX/ETH Uniswap v2 stakers. Read more about staking [here](https://docs.reflexer.finance/incentives/flx-staking).|
-|   15th June 2022 12:50 PM UTC  |            Ongoing           |                           60 FLX/day |     N/A                                | Votium incentives for the RAI Curve gauge |
+|   15th June 2022 12:50 PM UTC  |   15th July 2022 12:50 PM UTC  |                           10 FLX/day |       Same as Previous                 | RAI borrowers on Aave v2.|
+|   15th June 2022 12:50 PM UTC  |   15th July 2022 12:50 PM UTC  |                           10 FLX/day |       NEW                 | RAI mint + lend on Aave v2                |
+|   15th June 2022 12:50 PM UTC  |   15th July 2022 12:50 PM UTC  |                           20 FLX/day |       Same as Previous                 | LP in the Uniswap v2 RAI/ETH Pool.                          |                       |
+|   15th June 2022 12:50 PM UTC  |   15th July 2022 12:50 PM UTC  |                          110 FLX/day |      Market + Redemption in Range      | RAI/DAI Uniswap v3 minter + LPs on market price. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
+|   15th June 2022 12:50 PM UTC  |   15th July 2022 12:50 PM UTC  |                          100 FLX/day |     N/A                                | FLX/ETH Uniswap v2 stakers. Read more about staking [here](https://docs.reflexer.finance/incentives/flx-staking).|
+|   15th June 2022 12:50 PM UTC  |   15th July 2022 12:50 PM UTC  |                           60 FLX/day |     N/A                                | Votium incentives for the RAI Curve gauge |
 
 Snapshot date: 15th July 2022 12:50 PM UTC
 
