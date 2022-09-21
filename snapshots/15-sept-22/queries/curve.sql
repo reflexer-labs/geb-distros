@@ -138,11 +138,23 @@ final_reward_list AS (
   SELECT address, SUM(earned) AS reward
   FROM erc20_earned
   GROUP BY address
+),
+
+
+filtered_reward_list AS (
+  SELECT address, reward 
+  FROM final_reward_list
+  WHERE address != NullAddress AND address != "0x66ec719045bbd62db5ebb11184c18237d3cc2e62"
+),
+
+normalized_reward_list AS (
+  SELECT address, reward * TokenOffered / (SELECT SUM(reward) FROM filtered_reward_list) AS reward, TokenOffered / (SELECT SUM(reward) FROM filtered_reward_list) AS a, (SELECT SUM(reward) FROM filtered_reward_list) AS b
+  FROM filtered_reward_list
 )
 
 -- Output results
 SELECT address, CAST(reward AS NUMERIC)/1e18 AS reward
-FROM final_reward_list 
+FROM normalized_reward_list 
 WHERE 
   address != NullAddress AND
   reward > 0
