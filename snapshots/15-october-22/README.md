@@ -2,7 +2,7 @@
 
 Distribution date: 22th October 2022
 
-- Start: October-15-2022 12:50pm UTC
+- Start: September-15-2022 12:50pm UTC
 - Cutoff-date: October-15-2022 12:50pm UTC
 
 Results of the overall distribution are in `per_campaign.csv` for individual query results for each distribution and in `summed.csv` which is the final file used for generating the Merkle root for the distributor contract.
