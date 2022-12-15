@@ -10,7 +10,7 @@
 | 15th November 2022 12:50 PM UTC  |            Ongoing           |                          100 FLX/day |     N/A                                | FLX/ETH Uniswap v2 stakers. Read more about staking [here](https://docs.reflexer.finance/incentives/flx-staking).|
 | 15th November 2022 12:50 PM UTC  |            Ongoing           |                           30 FLX/day |     ERC20 balance + time weigthed                                | To RAI Curve LP (RAI-3CRV LP token holders) |
 
-Snapshot date: 15th November 2022 12:50 PM UTC
+Snapshot date: 15th December 2022 12:50 PM UTC
 
 Distribution date: TBD
 
