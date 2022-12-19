@@ -16,7 +16,7 @@ To combine the individual query results run `./run_combine.sh ./distributions/di
 - Period: From November-15-2022 12:50pm UTC Until December-15-2022 12:50pm UTC
 - Query: Node script at https://github.com/reflexer-labs/lp-minter-reward-script
 
-Total FLX distributed: 900 FLX
+Total FLX distributed: 1200 FLX
 
 ### RAI/DAI UNI-V3 LP
 
@@ -25,7 +25,7 @@ Total FLX distributed: 900 FLX
 - Period: From November-15-2022 12:50pm UTC UTC Until December-15-2022 12:50pm UTC
 - Query: Node script at https://github.com/reflexer-labs/uni-v3-incentive-reward-script
 
-Total FLX distributed: 1800 FLX
+Total FLX distributed: 2400 FLX
 
 ### RAI Curve LP
 
@@ -35,4 +35,4 @@ Total FLX distributed: 1800 FLX
 - Query `curve.sql`
 - Command `./run_incentives_query.sh ./distributions/distribution-21/queries/curve.sql distributions/distribution-21/query-results/curve.csv`
 
-Total FLX distributed: 900 FLX
+Total FLX distributed: 1200 FLX
