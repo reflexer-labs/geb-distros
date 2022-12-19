@@ -11,28 +11,28 @@ To combine the individual query results run `./run_combine.sh ./distributions/di
 
 ### RAI/ETH UNI-V2 LP
 
-40 FLX per day to RAI/ETH LPs on Uniswap.
+30 FLX per day to RAI/ETH LPs on Uniswap.
 
 - Period: From November-15-2022 12:50pm UTC Until December-15-2022 12:50pm UTC
 - Query: Node script at https://github.com/reflexer-labs/lp-minter-reward-script
 
-Total FLX distributed: 930 FLX
+Total FLX distributed: 900 FLX
 
 ### RAI/DAI UNI-V3 LP
 
-80 FLX per day to RAI/DAI Uniswap v3 LPs at Redemption price that also minted RAI. See `https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program`
+60 FLX per day to RAI/DAI Uniswap v3 LPs at Redemption price that also minted RAI. See `https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program`
 
 - Period: From November-15-2022 12:50pm UTC UTC Until December-15-2022 12:50pm UTC
 - Query: Node script at https://github.com/reflexer-labs/uni-v3-incentive-reward-script
 
-Total FLX distributed: 1860 FLX
+Total FLX distributed: 1800 FLX
 
 ### RAI Curve LP
 
-40 FLX per day to RAI Curve LPs (RAI-3CRV LP token holders)
+30 FLX per day to RAI Curve LPs (RAI-3CRV LP token holders)
 
 - Period: From November-15-2022 12:50pm UTC UTC Until December-15-2022 12:50pm UTC
 - Query `curve.sql`
 - Command `./run_incentives_query.sh ./distributions/distribution-21/queries/curve.sql distributions/distribution-21/query-results/curve.csv`
 
-Total FLX distributed: 930 FLX
+Total FLX distributed: 900 FLX
