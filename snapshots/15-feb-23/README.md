@@ -1,4 +1,4 @@
-****# FLX Distribution #23
+# FLX Distribution #23
 
 Distribution date: February 2023
 
