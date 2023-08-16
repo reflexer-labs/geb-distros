@@ -2,7 +2,7 @@
 
 Distribution date: August 2023
 
-- Start: June-15-2023 12:50pm UTC
+- Start: July-15-2023 12:50pm UTC
 - Cutoff-date: August-15-2023 12:50pm UTC
 
 Results of the overall distribution are in `per_campaign.csv` for individual query results for each distribution and in `summed.csv` which is the final file used for generating the Merkle root for the distributor contract.
