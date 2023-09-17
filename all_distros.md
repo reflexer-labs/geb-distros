@@ -1,5 +1,27 @@
 # RAI incentive program
 
+## Round 31
+
+|               From              |             Until            |                               Amount |     Algo     | Target                                                                                                                                                          |
+|:-------------------------------:|:----------------------------:|-------------------------------------:|--------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 15th September 2023 12:50 PM UTC  |            15th October 2023 12:50 PM UTC           |                           30 FLX/day |       Same as Previous                 | LP in the Uniswap v2 RAI/ETH Pool.                          |                       |
+| -  |            -           |                          0 FLX/day |      Market + Redemption in Range      | RAI/DAI Uniswap v3 minter + LPs on market price. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
+| -  |            -           |                          0 FLX/day |     N/A                                | FLX/ETH Uniswap v2 stakers. Read more about staking [here](https://docs.reflexer.finance/incentives/flx-staking).|
+| -  |            -           |                           0 FLX/day |     ERC20 balance + time weigthed                                | To RAI Curve LP (RAI-3CRV LP token holders) |
+
+Snapshot date: 15th October 2023 12:50 PM UTC
+
+## Round 30
+
+|               From              |             Until            |                               Amount |     Algo     | Target                                                                                                                                                          |
+|:-------------------------------:|:----------------------------:|-------------------------------------:|--------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 15th August 2023 12:50 PM UTC  |            15th September 2023 12:50 PM UTC           |                           30 FLX/day |       Same as Previous                 | LP in the Uniswap v2 RAI/ETH Pool.                          |                       |
+| -  |            -           |                          0 FLX/day |      Market + Redemption in Range      | RAI/DAI Uniswap v3 minter + LPs on market price. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
+| -  |            -           |                          0 FLX/day |     N/A                                | FLX/ETH Uniswap v2 stakers. Read more about staking [here](https://docs.reflexer.finance/incentives/flx-staking).|
+| -  |            -           |                           0 FLX/day |     ERC20 balance + time weigthed                                | To RAI Curve LP (RAI-3CRV LP token holders) |
+
+Snapshot date: 15th September 2023 12:50 PM UTC
+
 ## Round 29
 
 |               From              |             Until            |                               Amount |     Algo     | Target                                                                                                                                                          |
@@ -9,7 +31,7 @@
 | -  |            -           |                          0 FLX/day |     N/A                                | FLX/ETH Uniswap v2 stakers. Read more about staking [here](https://docs.reflexer.finance/incentives/flx-staking).|
 | -  |            -           |                           0 FLX/day |     ERC20 balance + time weigthed                                | To RAI Curve LP (RAI-3CRV LP token holders) |
 
-Snapshot date: 15th June 2023 12:50 PM UTC
+Snapshot date: 15th August 2023 12:50 PM UTC
 
 ## Round 28
 
@@ -20,7 +42,7 @@ Snapshot date: 15th June 2023 12:50 PM UTC
 | -  |            -           |                          0 FLX/day |     N/A                                | FLX/ETH Uniswap v2 stakers. Read more about staking [here](https://docs.reflexer.finance/incentives/flx-staking).|
 | -  |            -           |                           0 FLX/day |     ERC20 balance + time weigthed                                | To RAI Curve LP (RAI-3CRV LP token holders) |
 
-Snapshot date: 15th June 2023 12:50 PM UTC
+Snapshot date: 15th July 2023 12:50 PM UTC
 
 ## Round 27
 
