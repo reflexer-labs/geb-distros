@@ -1,5 +1,16 @@
 # RAI incentive program
 
+## Round 34
+
+|               From              |             Until            |                               Amount |     Algo     | Target                                                                                                                                                          |
+|:-------------------------------:|:----------------------------:|-------------------------------------:|--------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 15th December 2023 12:50 PM UTC  |            15th January 2024 12:50 PM UTC           |                           0 FLX/day |       Same as Previous                | LP in the Uniswap v2 RAI/ETH Pool. Migration [info](https://community.reflexer.finance/t/oracle-migration-to-uniswap-v3-incentive-adjustments/510/4).                          |                       |
+| -  |            -           |                          30 FLX/day |      Full range      | RAI/ETH Uniswap v3 LP. More [info](https://community.reflexer.finance/t/oracle-migration-to-uniswap-v3-incentive-adjustments/510/22). |
+| -  |            -           |                          0 FLX/day |     N/A                                | FLX/ETH Uniswap v2 stakers. Read more about staking [here](https://docs.reflexer.finance/incentives/flx-staking).|
+| -  |            -           |                           0 FLX/day |     ERC20 balance + time weigthed                                | To RAI Curve LP (RAI-3CRV LP token holders) |
+
+Snapshot date: 15th November 2023 12:50 PM UTC
+
 ## Round 33
 
 |               From              |             Until            |                               Amount |     Algo     | Target                                                                                                                                                          |
