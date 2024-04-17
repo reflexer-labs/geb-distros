@@ -27,7 +27,7 @@ Total FLX distributed: 0 FLX
 - Period: From March-15-2024 12:50pm UTC Until April-15-2024 12:50pm UTC
 - Query: Node script at https://github.com/reflexer-labs/uni-v3-incentive-reward-script
 
-Total FLX distributed: 870 FLX
+Total FLX distributed: 930 FLX
 
 ### RAI/DAI UNI-V3 LP
 
