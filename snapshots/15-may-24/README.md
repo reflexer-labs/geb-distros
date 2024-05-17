@@ -1,21 +1,21 @@
-# FLX Distribution #36
+# FLX Distribution #38
 
 Please see forum thread [here](https://community.reflexer.finance/t/oracle-migration-to-uniswap-v3-incentive-adjustments/510/22) for details on incentive changes from last month.
 
-Distribution date: April 2024
+Distribution date: May 2024
 
-- Start: March-15-2024 12:50pm UTC
-- Cutoff-date: April-15-2024 12:50pm UTC
+- Start: April-15-2024 12:50pm UTC
+- Cutoff-date: May-15-2024 12:50pm UTC
 
 Results of the overall distribution are in `per_campaign.csv` for individual query results for each distribution and in `summed.csv` which is the final file used for generating the Merkle root for the distributor contract.
 
-To combine the individual query results run `./run_combine.sh ./distributions/distribution-37/query-results`
+To combine the individual query results run `./run_combine.sh ./distributions/distribution-38/query-results`
 
 ### RAI/ETH UNI-V2 LP
 
 0 FLX per day to RAI/ETH LPs on Uniswap.
 
-- Period: From March-15-2024 12:50pm UTC Until April-15-2024 12:50pm UTC
+- Period: From April-15-2024 12:50pm UTC Until May-15-2024 12:50pm UTC
 - Query: Node script at https://github.com/reflexer-labs/lp-minter-reward-script
 
 Total FLX distributed: 0 FLX
@@ -24,16 +24,16 @@ Total FLX distributed: 0 FLX
 
 30 FLX per day to RAI/ETH Uniswap v3 LPs at full range. See `https://docs.reflexer.finance/incentives/rai-eth-uniswap-v3-oracle-lp-incentives-program`
 
-- Period: From March-15-2024 12:50pm UTC Until April-15-2024 12:50pm UTC
+- Period: From April-15-2024 12:50pm UTC Until May-15-2024 12:50pm UTC
 - Query: Node script at https://github.com/reflexer-labs/uni-v3-incentive-reward-script
 
-Total FLX distributed: 870 FLX
+Total FLX distributed: 900 FLX
 
 ### RAI/DAI UNI-V3 LP
 
 0 FLX per day to RAI/DAI Uniswap v3 LPs at Redemption price that also minted RAI. See `https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program`
 
-- Period: From March-15-2024 12:50pm UTC Until April-15-2024 12:50pm UTC
+- Period: From April-15-2024 12:50pm UTC Until May-15-2024 12:50pm UTC
 - Query: Node script at https://github.com/reflexer-labs/uni-v3-incentive-reward-script
 
 Total FLX distributed: 0 FLX
@@ -42,8 +42,8 @@ Total FLX distributed: 0 FLX
 
 0 FLX per day to RAI Curve LPs (RAI-3CRV LP token holders)
 
-- Period: From March-15-2024 12:50pm UTC Until April-15-2024 12:50pm UTC
+- Period: From April-15-2024 12:50pm UTC Until May-15-2024 12:50pm UTC
 - Query `curve.sql`
-- Command `./run_incentives_query.sh ./distributions/distribution-37/queries/curve.sql distributions/distribution-37/query-results/curve.csv`
+- Command `./run_incentives_query.sh ./distributions/distribution-38/queries/curve.sql distributions/distribution-38/query-results/curve.csv`
 
 Total FLX distributed: 0 FLX
