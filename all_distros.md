@@ -11,7 +11,6 @@
 
 Snapshot date: 15th December 2024 12:50 PM UTC
 
-
 ## Round 44
 
 |               From              |             Until            |                               Amount |     Algo     | Target                                                                                                                                                          |
@@ -22,6 +21,7 @@ Snapshot date: 15th December 2024 12:50 PM UTC
 | -  |            -           |                           0 FLX/day |     ERC20 balance + time weigthed                                | To RAI Curve LP (RAI-3CRV LP token holders) |
 
 Snapshot date: 15th November 2024 12:50 PM UTC
+
 
 ## Round 43
 
@@ -100,6 +100,7 @@ Snapshot date: 15th May 2024 12:50 PM UTC
 
 Snapshot date: 15th April 2024 12:50 PM UTC
 
+
 ## Round 36
 
 |               From              |             Until            |                               Amount |     Algo     | Target                                                                                                                                                          |
@@ -110,6 +111,7 @@ Snapshot date: 15th April 2024 12:50 PM UTC
 | -  |            -           |                           0 FLX/day |     ERC20 balance + time weigthed                                | To RAI Curve LP (RAI-3CRV LP token holders) |
 
 Snapshot date: 15th March 2024 12:50 PM UTC
+
 
 ## Round 35
 
@@ -464,6 +466,7 @@ __NOTES__:
 |:-------------------------------:|:----------------------------:|-------------------------------------:|--------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   15th Nov 2021 12:50 PM UTC    |     15th Dec 12:50 PM UTC    |                           10 FLX/day |       Same as Previous       | RAI borrowers on Aave v2.|
 |   15th Nov 2021 12:50 PM UTC    |     15th Dec 12:50 PM UTC    |                           10 FLX/day |       Same as Previous       | RAI borrowers (not lenders) in the [Fuse RAI/FRAX/USDC/DAI pool 9](https://app.rari.capital/fuse/pool/9). Borrowers will need to supply DAI, USDC, FEI or FRAX (not RAI) in order to have an eligible borrow.     |
+|   15th Nov 2021 12:50 PM UTC    |     15th Dec 12:50 PM UTC    |                           10 FLX/day |       Same as Previous       | RAI lenders on Idle Finance. Lend RAI [here](https://beta.idle.finance/#/dashboard/best/RAI).                |
 |   15th Nov 2021 12:50 PM UTC    |     15th Dec 12:50 PM UTC    |                           70 FLX/day |       Same as Previous       | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |                       |
 |   15th Nov 2021 12:50 PM UTC    |     15th Dec 12:50 PM UTC    |                          150 FLX/day |      Market + Redemption in Range      | RAI/DAI Uniswap v3 minter + LPs on market price. More [info](https://docs.reflexer.finance/incentives/rai-uniswap-v3-mint-+-lp-incentives-program). |
 |   15th Nov 2021 12:50 PM UTC    |     15th Dec 12:50 PM UTC    |                          120 FLX/day |     N/A      | FLX/ETH Uniswap v2 stakers. Read more about staking [here](https://docs.reflexer.finance/incentives/flx-staking).|
@@ -505,7 +508,7 @@ __NOTES__:
 |:-------------------------------:|:----------------------------:|-------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   13th Oct 2021 12:50 PM UTC    |  15th Oct 2021 12:50 PM UTC  |                           30 FLX/day | RAI borrowers on Aave v2.|
 |   15th Sept 2021 12:50 PM UTC   |  13th Oct 2021 12:50 PM UTC  |                           40 FLX/day | RAI borrowers on Aave v2.|
-|   15th Sept 2021 12:50 PM UTC   |  15th Oct 2021 12:50 PM UTC  |                           10 FLX/day | RAI borrowers (not lenders) in the [Fuse RAI/FRAX/USDC/DAI pool 9](https://app.rari.capital/fuse/pool/9). Borrowers will need to supply DAI, USDC or FRAX (not RAI) in order to have an eligible borrow.     |
+|   15th Sept 2021 12:50 PM UTC   |  15th Oct 2021 12:50 PM UTC  |                           10 FLX/day | RAI borrowers (not lenders) in the [Fuse RAI/FRAX/USDC/DAI pool 9](https://app.rari.capital/fuse/pool/9). Borrowers will need to supply DAI, USDC, FEI or FRAX (not RAI) in order to have an eligible borrow.     |
 |   15th Sept 2021 12:50 PM UTC   |  15th Oct 2021 12:50 PM UTC  |                           10 FLX/day | RAI lenders on Idle Finance. Lend RAI [here](https://beta.idle.finance/#/dashboard/best/RAI).                |
 |   13th Oct 2021 12:50 PM UTC    |  15th Oct 2021 12:50 PM UTC  |                          100 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
 |   15th Sept 2021 12:50 PM UTC   |  13th Oct 2021 12:50 PM UTC  |                          120 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
@@ -627,7 +630,7 @@ Distribution date: 22nd June 2021
 
 |               From              |             Until            |                               Amount | Target                                                                                                                                                          |
 |:-------------------------------:|:----------------------------:|-------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   13th April 2021 12:50 PM UTC  | 17th April 2021 12:50 PM UTC |                          668 FLX/day | Uniswap v2 RAI/ETH Liquidity Providers                                                                                                      |
+|   13th April 2021 12:50 PM UTC  | 17th April 2021 12:50 PM UTC |                          668 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
 |   13th April 2021 12:50 PM UTC  |  13th May 2021 12:50 PM UTC  |                           15 FLX/day | RAI borrowers (not lenders) on [CREAM](https://app.cream.finance/)                                                                                              |
 | 14th of April 2021 12:50 PM UTC |  13th May 2021 12:50 PM UTC  |                           15 FLX/day | RAI borrowers (not lenders) in the [Fuse RAI/FRAX/USDC/DAI pool 9](https://app.rari.capital/fuse/pool/9)                                                        |
 |   17th April 2021 12:50 PM UTC  |  13th May 2021 12:50 PM UTC  |                        233.8 FLX/day | Mint + LP in the Uniswap v2 RAI/ETH Pool. More Info [here](https://docs.reflexer.finance/incentives/rai-mint-+-lp-incentives-program).                          |
